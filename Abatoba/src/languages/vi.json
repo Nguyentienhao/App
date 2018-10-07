@@ -1,0 +1,21 @@
+{
+  "Home": "Trang chủ",
+  "Categories":"Danh mục",
+  "Cart":"Giỏ hàng",
+  "Language": "Ngôn ngữ",
+  "Profile": "Tài khoản",
+  "Profile Info": "Thông tin tài khoản",
+  "Transactions": "Lịch sử giao dịch",
+  "Invite Friends": "Gửi tin mời bạn bè",
+  "Feedback": "Gửi đóng góp ý kiến",
+  "Application Support": "Hỗ trợ ứng dụng",
+  "Logout": "Đăng xuất",
+  "Login": "Đăng nhập",
+  "Register": "Đăng ký",
+  "Settings": "Cài đặt",
+  "Quit App":"Thoát ứng dụng",
+  "Are you sure want to quit Hemas?":"Bạn có muốn thoát ứng dụng Hemas?",
+  "Term of service":"Thông tin về ứng dụng",
+  "Security":"Chính sách bảo mật",
+  "Payment":"Hình thức thanh toán"
+}

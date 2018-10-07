@@ -1,0 +1,5 @@
+export const PRODUCT_QUERY_TYPE_SALE_OFF = 1;
+export const PRODUCT_QUERY_TYPE_NEAR_BY = 2;
+export const PRODUCT_QUERY_TYPE_RECENT = 3;
+export const PRODUCT_QUERY_TYPE_FEATURED = 4;
+export const USER_TYPE_STAFF = 4;
